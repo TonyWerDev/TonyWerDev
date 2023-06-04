@@ -1,6 +1,7 @@
-# ![WUJU](https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif) Hola, mi nombre es Antonio Mendez👋
+# ![WUJU]() Hola, mi nombre es Antonio Mendez👋
 
 <div id="header" align="center">
+    <img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="200" />
     <h3 align="center">Mechatronics Engineering.</h3>
 </div>
 
